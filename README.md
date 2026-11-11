@@ -1,6 +1,6 @@
 # AIS CP1 - TP 1 - MERIDIAN : construire le lab, inventorier et cartographier
  
-Bachelor AIS (RNCP37680) - CP1 : appliquer les bonnes pratiques dans l'administration des infrastructures.
+Bachelor AIS - CP1 : appliquer les bonnes pratiques dans l'administration des infrastructures.
  
 Ce dépôt contient les livrables du TP 1 : construction d'un lab de 3 machines virtuelles, création du domaine `meridian.lan`, installation de GLPI, inventaire du parc et de l'Active Directory, classement par criticité et cartographie du système d'information de MERIDIAN Systèmes (180 salariés, Paris et Lyon).
  
