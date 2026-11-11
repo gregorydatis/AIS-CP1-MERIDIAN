@@ -1,0 +1,5 @@
+﻿"Name","OperatingSystem","LastLogonDate","Enabled","DistinguishedName"
+"PAR-FS-01","Windows Server 2016 Standard",,"True","CN=PAR-FS-01,OU=Serveurs,OU=MERIDIAN,DC=meridian,DC=lan"
+"LYO-SRV-01","Windows Server 2012 R2 Standard",,"True","CN=LYO-SRV-01,OU=Serveurs,OU=MERIDIAN,DC=meridian,DC=lan"
+"PAR-PC-017","Windows 10 Professionnel",,"True","CN=PAR-PC-017,OU=Postes,OU=MERIDIAN,DC=meridian,DC=lan"
+"LYO-PC-004","Windows 10 Professionnel",,"True","CN=LYO-PC-004,OU=Postes,OU=MERIDIAN,DC=meridian,DC=lan"
