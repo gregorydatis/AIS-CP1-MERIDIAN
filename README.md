@@ -46,6 +46,24 @@ Le script crée 3 fichiers dans `C:\Inventaire` :
 - 4 comptes ordinateurs déclarés dans l'AD ne se sont jamais connectés
 - LYO-SRV-01 sous Windows Server 2012 R2, plus supporté depuis octobre 2023
 - GLPI accessible en HTTP, sans chiffrement
+
+## Captures
+
+**Get-ADDomain depuis PAR-ADM-01**
+<img width="2558" height="1061" alt="Get-ADDomain" src="https://github.com/user-attachments/assets/660b180a-a0dc-4a7d-a250-dfe5629b13a1" />
+
+**Page d'accueil GLPI**
+<img width="2532" height="1110" alt="Accueil glpi" src="https://github.com/user-attachments/assets/0f8542c8-10ec-4887-a5a2-5fca74026a4a" />
+
+**Ordinateurs inventoriés dans GLPI**
+<img width="2554" height="1114" alt="3 machines glpi" src="https://github.com/user-attachments/assets/0609b994-2820-429e-88fc-1e7a862d4044" />
+
+**Contenu de serveurs.csv**
+<img width="1368" height="340" alt="Contenu Serveurs csv" src="https://github.com/user-attachments/assets/7e75fe31-b2a2-4048-817a-540cb23a0868" />
+
+## Schéma d'ensemble
+<img width="2164" height="1502" alt="schema-meridian" src="https://github.com/user-attachments/assets/91d5d7e2-52d5-46b1-975f-fe491a61459f" />
+
 ## Auteur
  
 Grégory Datis - formation AIS, formateur Harabi Amine.
